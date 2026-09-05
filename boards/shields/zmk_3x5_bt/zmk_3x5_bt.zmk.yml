@@ -1,0 +1,8 @@
+file_format: "1"
+id: zmk_3x5_bt
+name: ZMK 3x5 Bluetooth
+type: shield
+url: https://github.com/genshin678/zmk-3x5-bt
+requires: [pro_micro]
+features:
+  - keys

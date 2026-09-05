@@ -1,0 +1,9 @@
+# Copyright (c) 2026
+# SPDX-License-Identifier: MIT
+
+if SHIELD_ZMK_3X5_BT
+
+config ZMK_KEYBOARD_NAME
+    default "ZMK 3x5 BT"
+
+endif

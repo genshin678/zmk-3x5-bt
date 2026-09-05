@@ -1,0 +1,14 @@
+# ZMK build artifacts
+build/
+*.uf2
+*.bin
+*.hex
+*.elf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~

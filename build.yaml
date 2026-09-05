@@ -1,0 +1,6 @@
+# ZMK build matrix
+# board: nice_nano (Pro Micro / nice!nano v2, NRF52840)
+# shield: zmk_3x5_bt (custom 3x5 keyboard shield)
+---
+board: ["nice_nano"]
+shield: ["zmk_3x5_bt"]
